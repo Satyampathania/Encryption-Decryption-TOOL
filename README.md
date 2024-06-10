@@ -69,6 +69,9 @@ sh
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+![Project Preview](https://raw.githubusercontent.com/Satyampathania/Encryption-Decryption_TOOL/main/https://github.com/Satyampathania/Encryption-Decryption-TOOL/assets/71765680/fe347df2-7d10-499e-b674-e7fc7c4e1d34)
+
+
 
 
 🙌 Acknowledgements
