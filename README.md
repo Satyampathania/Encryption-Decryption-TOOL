@@ -23,14 +23,17 @@ This is a Python-based GUI tool designed to provide a simple way to encrypt and 
   ### Clone the Repository:
 
 sh
-git clone https://github.com/Satyampathania/encryption-decryption-tool.git
-cd encryption-decryption-tool 
+
+    git clone https://github.com/Satyampathania/encryption-decryption-tool.git
+    cd encryption-decryption-tool 
 
 
 
 Install Dependencies:
 
-sh pip install cryptography
+sh 
+
+    pip install cryptography
 
 Run the Script:
 
