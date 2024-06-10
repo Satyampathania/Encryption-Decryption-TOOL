@@ -1,5 +1,4 @@
- Simple Text Encryption and Decryption Tool 
-
+🛡️ Simple Text Encryption and Decryption Tool 🛡️
 
 
 
@@ -21,18 +20,17 @@ This is a Python-based GUI tool designed to provide a simple way to encrypt and 
 
 🚀 How to Use
 
-    Clone the Repository:
+  ### Clone the Repository:
 
-    sh
-
+sh
 git clone https://github.com/Satyampathania/encryption-decryption-tool.git
-cd encryption-decryption-tool
+cd encryption-decryption-tool 
+
+
 
 Install Dependencies:
 
-sh
-
-pip install cryptography
+sh pip install cryptography
 
 Run the Script:
 
