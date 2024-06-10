@@ -57,7 +57,14 @@ sh
 ![screenshot](https://github.com/Satyampathania/Encryption-Decryption-TOOL/assets/71765680/f2c8e76a-398f-4c59-9d8d-838626fe1772)
 
 
+
+
+
 ![Image Name](https://github.com/Satyampathania/Encryption-Decryption-TOOL/assets/71765680/a449e169-398e-4a4c-a0e8-b23e9154fa0d)
+
+
+
+
 
 
 ![Image Name](https://github.com/Satyampathania/Encryption-Decryption-TOOL/assets/71765680/97628013-8f1e-4378-b7c9-f213fc7f97c9)
@@ -69,7 +76,10 @@ sh
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-![Project Preview](https://raw.githubusercontent.com/Satyampathania/Encryption-Decryption_TOOL/main/https://github.com/Satyampathania/Encryption-Decryption-TOOL/assets/71765680/fe347df2-7d10-499e-b674-e7fc7c4e1d34)
+
+
+
+
 
 
 
